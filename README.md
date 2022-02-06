@@ -3,7 +3,7 @@
 ### Hola 👋, my name is Mario aka MrMWebDev
 #### I am a Web Developer Student
 I am from Argentina, I was born and raised in a Circus where I worked as an Acrobat for over 15 years all over South And Central America.
-I always liked technology and in 2018 I started to teach myself Coding, but I didn't know What to start with, so 3 years later I'm taking a Web Developer course, and I love.
+I always liked technology, and in 2018 I started to teach myself how to Code, but I got stuck very quickly and gave up, and 3 years later I'm taking a Web Developer course through OpenClassRooms, and I love.
 
 Skills: HTML / CSS / SASS / JS
 
