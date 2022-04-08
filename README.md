@@ -8,7 +8,7 @@ I always liked technology, and in 2018 I started to teach myself how to Code, an
 Skills: HTML / CSS / SASS / JS
 
 - 🔭 I’m currently working on Improving my Web Developer skills. 
-- 🌱 I’m currently learning HTML / CSS / SASS / JS 
+- 🌱 I’m currently learning HTML / CSS / SASS / JS / VUE.js 
 - 👯 I’m looking to collaborate on Small projects. 
 - 🤔 I’m looking for help with Learning to become a Web Developer. 
 - 😄 Pronouns: He/His 
