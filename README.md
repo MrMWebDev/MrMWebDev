@@ -19,7 +19,7 @@ Skills:
 - ⚡ Fun fact: I lived and worked in a Circus as an acrobat for over 25 years.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='#ffffff'>](https://github.com/MrMWebDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='#ffffff'>](https://www.linkedin.com/in/tihanymario@gmail.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='#fff'>](https://github.com/MrMWebDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='#fff'>]([https://www.linkedin.com/in/tihanymario@gmail.com/](https://www.linkedin.com/in/mario-moreno-7122621b9/))  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMWebDev)](https://github.com/anuraghazra/github-readme-stats)
 
