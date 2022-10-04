@@ -1,10 +1,10 @@
 ![mad-about-bookkeeping-header-software](https://user-images.githubusercontent.com/51481617/192114058-15665ec0-2681-46fe-ae1a-e83b0f8fca3f.jpg)
 
 
-### Hola 👋, my name is Mario aka MrMWebDev
-#### I am a Web Developer Student
-I am from Argentina, I was born and raised in a Circus where I worked as an Acrobat for over 15 years all over South And Central America.
-I always liked technology, and in 2018 I started to teach myself how to Code, and 3 years later I'm taking a Web Developer course through OpenClassRooms, and I love it.
+### Hola 👋, I am Mario, aka MrMWebDev
+#### I am a Web Developer
+I am from Argentina, I was born and raised in a Circus where I worked as an Acrobat for over 20 years all over South And Central America.
+I was always fascinated about technology, and in 2018 I started to teach myself how to Code, and 3 years later I took a Web Developer course through OpenClassRooms, where I graduated in September 2022, and I am very excited to show what I can do :bowtie: :wink:.
 
 Skills: 
  
