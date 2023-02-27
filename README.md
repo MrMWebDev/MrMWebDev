@@ -25,6 +25,4 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMWebDev&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/MrMWebDev)  
-
 ![Profile views](https://gpvc.arturio.dev/MrMWebDev)  
