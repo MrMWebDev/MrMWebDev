@@ -2,9 +2,8 @@
 
 
 ### Hola 👋, I am Mario, aka MrMWebDev
-#### I am a Web Developer
-I am from Argentina, I was born and raised in a Circus where I worked as an Acrobat for over 20 years all over South And Central America.
-I was always fascinated about technology, and in 2018 I started to teach myself how to Code, and 3 years later I took a Web Developer course through OpenClassRooms, where I graduated in September 2022, and I am very excited to show what I can do :bowtie: :wink:.
+#### Web Developer
+I am originally from Argentina, I was born and raised in a Circus where I worked as an Acrobat for over 20 years all over South And Central America. I was always fascinated about technology, and in 2018 I started to teach myself how to Code and I fell in love with software and web development. :bowtie: :wink:.
 
 Skills: 
  
