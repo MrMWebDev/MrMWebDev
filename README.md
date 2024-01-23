@@ -3,7 +3,7 @@
 
 ### Hola 👋, I am Mario, aka MrMWebDev
 #### Web Developer
-I am originally from Argentina, I was born and raised in a Circus where I worked as an Acrobat for over 20 years all over South And Central America. I was always fascinated about technology, and in 2018 I started to teach myself how to Code and I fell in love with software and web development. :bowtie: :wink:.
+Ever dreamt of a web dev who used to defy gravity?  Introducing Mario, aka MrMWebDev! After dazzling audiences for 20 years as an Argentine acrobat, I traded trapezes for code, and haven't looked back. Now, I'm passionate about bringing the same thrill of innovation to web development, specializing in Fronend Development. Let's build something awesome together! ️ :bowtie: :wink:.
 
 Skills: 
  
