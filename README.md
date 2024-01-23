@@ -2,8 +2,8 @@
 
 
 ### Hola 👋, I am Mario, aka MrMWebDev
-#### Web Developer
-Ever dreamt of a web dev who used to defy gravity?  Introducing Mario, aka MrMWebDev! After dazzling audiences for 20 years as an Argentine acrobat, I traded trapezes for code, and haven't looked back. Now, I'm passionate about bringing the same thrill of innovation to web development, specializing in Fronend Development. Let's build something awesome together! ️ :bowtie: :wink:.
+#### Front-end web developer
+Ever dreamt of a web dev who used to defy gravity?  Introducing Mario, aka MrMWebDev! After dazzling audiences for 20 years as an Argentine acrobat, I traded trapezes for code, and haven't looked back. Now, I'm passionate about bringing the same thrill of innovation to web development, specializing in Front-end web development. Let's build something awesome together! ️ :bowtie: :wink:.
 
 Skills: 
  
